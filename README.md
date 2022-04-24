@@ -1,4 +1,5 @@
 # Simple calculator programmed in Python
+
 Calculadora simples programada em Python
 
 # Código dividido em:
